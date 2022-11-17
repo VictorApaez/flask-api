@@ -4,4 +4,4 @@
 /
 
 ## Get/udated/delete a specidfic person: 
-/person/<id>
+/person/id
